@@ -95,7 +95,6 @@ pip3 install -r requirements.txt
 python C:\Thrive\Thrive_API-2.0\app.py
 ```
 
-
 🏷️ **开源地址：**
 
 前端：[LiuYuYang01/Thrive-Blog (github.com)](https://github.com/LiuYuYang01/Thrive-Blog)
